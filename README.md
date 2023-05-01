@@ -1,3 +1,3 @@
 # Assignment
 
-Assignment 1 was to create send ether smart conctract
+Assignment1 create send ether smart contract
